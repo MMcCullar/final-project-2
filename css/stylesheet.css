@@ -2,7 +2,7 @@
 font-family: 'Charm', cursive;*/
 body {
     background-color: rgba(248, 244, 244, 0.945);
-    background-image:url(/img/pastel-beach.jpg);
+    background-image:url(../img/pastel-beach.jpg);
     background-size:cover;
     border: 3px none;
 }
@@ -10,7 +10,7 @@ body {
     width: 97%;
     height: 100px;
     background-color: white;
-    background-image:url(/img/pastel-beach-long.jpg);
+    background-image:url(../img/pastel-beach-long.jpg);
     Background-size:cover;
     border: none;
     border-color: black;
@@ -60,7 +60,7 @@ body {
     width: 45%;
     height:440px;
     background-color: rgba(255, 255, 255, 0);
-    background-image:url(/img/pastel-palms-square.jpg);
+    background-image:url(../img/pastel-palms-square.jpg);
     border-color: none;
     margin-bottom: 10px;
     margin-left: 1%;
@@ -82,7 +82,7 @@ body {
     border: none;
     border-color: none;
     background-color: white;
-    background-image: url(/img/seaturtle.jpg);
+    background-image: url(../img/seaturtle.jpg);
     background-size: cover;
     margin-bottom: 100px;
     margin-left: 10px;

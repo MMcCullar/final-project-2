@@ -3,7 +3,7 @@ font-family: 'Charm', cursive;*/
 
 body {
   background-color: rgba(248, 244, 244, 0.945);
-  background-image:url(/img/pastel-palms.jpg);
+  background-image:url(../img/pastel-palms.jpg);
   background-size:cover;
   border: 3px none;
 }
@@ -11,7 +11,7 @@ body {
   width: 97%;
   height: 100px;
   background-color: white;
-  background-image:url(/img/pastel-beach-long.jpg);
+  background-image:url(../img/pastel-beach-long.jpg);
   Background-size:cover;
   border: none;
   border-color: black;

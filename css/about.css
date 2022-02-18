@@ -4,7 +4,7 @@ font-family: 'Charm', cursive;*/
 /*Body*/
 body {
     background-color: rgba(128, 128, 128, 0.945);
-    background-image:url(/img/pinkskyocean.jpg);
+    background-image:url(../img/pinkskyocean.jpg);
     background-size:cover;
     border: 3px none;
 }
@@ -13,7 +13,7 @@ body {
     width: 97%;
     height: 120px;
     background-color: white;
-    background-image:url(/img/pastel-beach-long.jpg);
+    background-image:url(../img/pastel-beach-long.jpg);
     Background-size:cover;
     border: none;
     border-color: black;
